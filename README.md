@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hyde Yoo</h1>
-<h3 align="center">Challenge-driven second year student at UofT</h3>
+<h3 align="center">Challenge-driven third year student at UofT</h3>
 
 - 📫 How to reach me **hydeyoo0716@gmail.com**
 
